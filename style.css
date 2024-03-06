@@ -8,11 +8,19 @@ h1{
     color: brown;
 }
 h2{
-    font-size: 100px
-    color white ;
+     font-size: 50px;
+     color: black;
 }
-li {
+p{
+    font-weight: bold;
+    background-color: blueviolet;
+}
+li{
     font-style: normal;
-    font-size: 50
-    color purple;
+    font-size: 50px;
+     color: blue;
+}
+.para1{
+font-size: normal;
+background-color: azure;
 }
