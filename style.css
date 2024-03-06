@@ -1,3 +1,18 @@
 *{
     background-color: aquamarine;
+    font-style: italic;
+    font-size: 20px;
+}
+h1{
+    font-size: larger;
+    color: brown;
+}
+h2{
+    font-size: 100px
+    color white ;
+}
+li {
+    font-style: normal;
+    font-size: 50
+    color purple;
 }
